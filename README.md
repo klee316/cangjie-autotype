@@ -22,14 +22,14 @@ Developed for work specific tasks to test opaque cangjie input on macOS
 
 // The code is further supplemented by two other python scripts for exploring improvements in choosing designated words.
 
-2.test.py
+2. test.py
 - ask computer to auto type just as in input.py, stop at the candidate window
 - provide the desired character screenshot for the computer to read
 - detect if the word is shown on screen with locate function from PyAutoGUI
 - if so, click the word
 
 
-3.screenshot.py
+3. screenshot.py
 - before test.py can be scaled for 700 characters, we have to capture 700 screenshots for the computer to detect
 - the size and color of the screenshots should be similar to the ones on candidate window due to the locate function's limitation
 - the locate function's performance is improved by setting grayscale=True and confidence=0.5-0.7
