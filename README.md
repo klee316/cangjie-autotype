@@ -20,7 +20,7 @@ Developed for work specific tasks to test opaque cangjie input on macOS
 - transcription that does not produce desirable outcomes are tested manually later, there are only less than 50 such words
 
 
-// The code is further supplemented by two other python scripts for exploring improvements in choosing designated words.
+// The code is further supplemented by two other python scripts for exploring improvements in choosing designated words. //
 
 2. test.py
 - ask computer to auto type just as in input.py, stop at the candidate window
