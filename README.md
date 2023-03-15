@@ -1,7 +1,7 @@
 # cangjie-autotype
 Developed for work specific tasks to test opaque cangjie input on macOS
 
-!! Check out the input_demo video to see its runtime results.
+!! Check out the input_demo.mov to see its runtime results.
 
 # background
 - I am given a task to verify if ~700 opague Chinese characters can be typed out using Cangjie (a traditional Chinese input method) in a limited time
